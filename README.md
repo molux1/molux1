@@ -23,7 +23,7 @@
 |----------|----------|-------------|
 | [@molux_bot](https://t.me/molux_bot) | Телеграм-бот с ChatGPT | Python, OpenAI API |
 | [test](https://github.com/molux/test) | Музыкальный бот для Discord | Node.js, discord.js |
-| [site](https://molux.pythonanywhere.com/) | Сайт для пиццерии | HTML, CSS, JS |
+| [site](https://molux.pythonanywhere.com/) | Сайт для магазина | HTML, CSS, JS |
 
 ---
 
