@@ -1,8 +1,8 @@
-<h1 align="center">Привет, я [ТВОЕ ИМЯ] 👋</h1>
+<h1 align="center">Привет, я Владислав 👋</h1>
 
 <p align="center">
   🧑‍💻 Молодой разработчик Telegram/Discord ботов и сайтов <br/>
-  📍 Мне 14 лет, я из [ГОРОД, если хочешь] <br/>
+  📍 Мне 14 лет <br/>
   💼 Работаю с Python, Node.js, HTML/CSS/JS, AI/ML
 </p>
 
@@ -21,17 +21,17 @@
 
 | Название | Описание | Технологии |
 |----------|----------|-------------|
-| [@ai_helper_bot](https://t.me/ai_helper_bot) | Телеграм-бот с ChatGPT | Python, OpenAI API |
-| [discord-music-bot](https://github.com/твойлогин/discord-music-bot) | Музыкальный бот для Discord | Node.js, discord.js |
-| [pizza-site](https://github.com/твойлогин/pizza-site) | Сайт для пиццерии | HTML, CSS, JS |
+| [@molux_bot](https://t.me/molux_bot) | Телеграм-бот с ChatGPT | Python, OpenAI API |
+| [test](https://github.com/molux/test) | Музыкальный бот для Discord | Node.js, discord.js |
+| [site](https://molux.pythonanywhere.com/) | Сайт для пиццерии | HTML, CSS, JS |
 
 ---
 
 ### 📫 Связаться со мной:
 
-- Telegram: [@твойник](https://t.me/твойник)
-- Discord: `твойник#0000`
-- Email: example@mail.com (если есть)
+- Telegram: [@vladsqws](https://t.me/@ladsqws)
+- Discord: `letrony`
+- Email: moluxshop1@gmail.com
 
 ---
 
